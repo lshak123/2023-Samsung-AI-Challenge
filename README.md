@@ -78,9 +78,7 @@
 
 **[담당 역할]**
 
-- 데이터 전처리 및 EDA
 - IQA model
-- Caption base model
 
 <br/>
 
